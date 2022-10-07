@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.1.0](https://github.com/sygmaprotocol/sygma-sdk/compare/sygma-sdk-core-v1.0.1...sygma-sdk-core-v1.1.0) (2022-10-07)
+
+
+### Features
+
+* Create ERC721 example application and documents ([#83](https://github.com/sygmaprotocol/sygma-sdk/issues/83)) ([f6ce371](https://github.com/sygmaprotocol/sygma-sdk/commit/f6ce371c0a1f410050ddd4b01954f00c38d1f571))
+
+
+### Bug Fixes
+
+* updated readme ([#87](https://github.com/sygmaprotocol/sygma-sdk/issues/87)) ([f99d237](https://github.com/sygmaprotocol/sygma-sdk/commit/f99d2374a06c80c4af41f7dad13f7eff1598c753))
+
 ## [1.0.1](https://github.com/sygmaprotocol/sygma-sdk/compare/sygma-sdk-core-v0.0.9...sygma-sdk-core-v1.0.1) (2022-09-28)
 
 
